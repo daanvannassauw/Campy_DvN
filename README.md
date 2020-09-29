@@ -1,2 +1,4 @@
 # Campy_DvN
-time-based plasmid co-evolution of C. coli/C. jejuni 
+direction and quantification of Campylobacter coli and Campylobacter jejuni plasmid exchange and their relation to niche co-evolution.
+
+

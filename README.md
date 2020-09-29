@@ -1,4 +1,8 @@
 # Campy_DvN
-direction and quantification of Campylobacter coli and Campylobacter jejuni plasmid exchange and their relation to niche co-evolution.
+main goal: direction and quantification of Campylobacter coli and Campylobacter jejuni plasmid exchange and their relation to niche co-evolution.
 
+Campylobacter species have the potential to evolve and adapt readily in a new environment  (Wilson et al., 2009). They are capable of recombining genetic material from their surroundings and fast adaptation facilitated by horizontal gene transfer (HGT). HGT allows introduction of large polymorphisms at the same time, resulting in an increase of new phenotypes such as antimicrobial resistance to certain compounds (Aksomait, 2020). Although there are diverse studies aiming at the genetic mobility within these bacteria, there are still numerous aspects not known. For example, what is the timeframe of its evolution, how quickly could it adapt and which human or non-human factors, now and in the past, could have contributed to the evolution of the two species?
+
+In this project, quantification of the plasmid exchange of C. jejuni and C. coli will be analysed by determining the plasmid jump direction and frequency between the two Campylobacter species. 
+It has already been shown that host jumps seem to happen more frequent from C. coli to C. jejuni than the other way around (Maarten’s project). A previously done part of the DEPICT research showed a high similarity between the plasmids found in both C. coli and C. jejuni. The same study shows a high interspecies gene flow, even though the Average Nucleotide ID percentage (ANI) of the related species is only 84% (Alejandro Caro-Quintero, Gina P. Rodriguez-Castaño, & Konstantinos T. Konstantinidis, 2009). Due to the high rate of HGT between the C. coli and C. jejuni, it is predicted that the species co-habiting the same niche, eventually will merge (Sheppard, McCarthy, Falush, & Maiden, 2008).
 
